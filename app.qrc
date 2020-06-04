@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/main">
+        <file alias="main.qml">QML/main.qml</file>
+    </qresource>
+    <qresource prefix="/Assets">
+        <file alias="Style.qml">QML/Assets/Style.qml</file>
+        <file alias="qmldir">QML/Assets/qmldir</file>
+        <file alias="Images/MainMenu/Settings.png">QML/Assets/Images/MainMenu/Settings.png</file>
+        <file alias="Images/MainMenu/Charts.png">QML/Assets/Images/MainMenu/Charts.png</file>
+        <file alias="Images/MainMenu/AddNote.png">QML/Assets/Images/MainMenu/AddNote.png</file>
+        <file alias="Images/BackArrow.png">QML/Assets/Images/BackArrow.png</file>
+    </qresource>
+    <qresource prefix="/Components">
+        <file alias="Home.qml">QML/Components/Home.qml</file>
+        <file alias="qmldir">QML/Components/qmldir</file>
+        <file alias="MainMenu.qml">QML/Components/MainMenu.qml</file>
+        <file alias="MainMenuList.qml">QML/Components/MainMenuList.qml</file>
+        <file alias="Charts.qml">QML/Components/Charts.qml</file>
+        <file alias="Settings.qml">QML/Components/Settings.qml</file>
+        <file alias="MainStack.qml">QML/Components/MainStack.qml</file>
+		<file alias="AddNote.qml">QML/Components/AddNote.qml</file>
+		<file alias="CustomTextEdit.qml">QML/Components/CustomTextEdit.qml</file>
+		<file alias="CustomButton.qml">QML/Components/CustomButton.qml</file>
+    </qresource>
+    <qresource prefix="/Data">
+        <file alias="periodData.json">Data/periodData.json</file>
+    </qresource>
+</RCC>

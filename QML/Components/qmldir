@@ -1,0 +1,9 @@
+module Components
+
+Home 1.0 Home.qml
+Charts 1.0 Charts.qml
+MainMenu 1.0 MainMenu.qml
+Settings 1.0 Settings.qml
+AddNote 1.0 AddNote.qml
+
+MainStack 1.0 MainStack.qml
